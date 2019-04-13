@@ -1,5 +1,5 @@
 # Expression_Compiler
-The aim of the project is that to produce the assembly instructions of a given expression.
+The aim of the project is to produce the assembly instructions of a given expression.
 
 # Procedure
 The program takes "example.co" file as input and gives "example.asm" file as output.
